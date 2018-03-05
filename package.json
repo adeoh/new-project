@@ -1,0 +1,36 @@
+{
+  "name": "sisban-front",
+  "version": "1.0.0",
+  "description": "Sisban Website @ Angrama",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/messinmotion/new-project"
+  },
+  "keywords": [
+    "gulp",
+    "scss",
+    "js",
+    "images"
+  ],
+  "author": "Anagrama / Alejandro Dorantes",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/messinmotion/new-project/issues"
+  },
+  "homepage": "https://github.com/messinmotion/new-project",
+  "devDependencies": {
+    "browser-sync": "^2.0.0",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^1.0.1",
+    "gulp-imagemin": "^2.2.1",
+    "gulp-plumber": "^0.6.6",
+    "gulp-rename": "^1.2.0",
+    "gulp-sass": "^2.0.4",
+    "gulp-uglify": "^1.1.0",
+    "imagemin-pngquant": "^4.0.0"
+  }
+}
