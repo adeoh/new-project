@@ -1,7 +1,7 @@
-# Sisban Front-End
+# CSI
 
 
-El workflow de desarrollo front-end de Sisban ejecuta tareas automatizadas de la siguiente forma:
+El workflow de desarrollo front-end ejecuta tareas automatizadas de la siguiente forma:
 
 - Compila, autoprefija `(cross-browser css)` y minifica nuestros estilos (SCSS).
 - Minifica con uglify nuestros archivos javascript
@@ -16,12 +16,12 @@ El workflow de desarrollo front-end de Sisban ejecuta tareas automatizadas de la
 1. Clonamos el repositorio
 
 ```bash
-git clone https://alejandro-dev@bitbucket.org/anagrama/sisban-front.git
+git clone "repository/url"
 ```
 2. Entramos al directorio
 
 ```bash
-cd sisban-front
+cd path/to/project
 ```
 
 3. Una vez que descarguemos y entremos al directorio corremos:
